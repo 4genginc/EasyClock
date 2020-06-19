@@ -14,3 +14,5 @@
 ###### Other Link
 
 * [LUFA Library](http://www.fourwalledcubicle.com/files/LUFA/Doc/120219/html/index.html)
+
+* [User Projects Powered by LUFA](http://www.fourwalledcubicle.com/files/LUFA/Doc/120219/html/_page__l_u_f_a_powered_projects.html) 这个页面有AT90USB162芯片的USB板子连接
