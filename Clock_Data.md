@@ -22,11 +22,16 @@
 
 ###### Other Link
 
+  * [User Projects Powered by LUFA](http://www.fourwalledcubicle.com/files/LUFA/Doc/120219/html/_page__l_u_f_a_powered_projects.html) 这个页面有AT90USB162芯片的USB板子连接
+
+  * [AVR-USB-162](<./AVR-USB-162.md>)
+
+
+###### Other Link
+
 * [ClockTamer-1.2-schematics](https://rfagora.s3.amazonaws.com/sooof/hardware/datasheet/clock/ClockTamer-1.2-schematics.pdf)
 
 * [LUFA Library](http://www.fourwalledcubicle.com/files/LUFA/Doc/120219/html/index.html)
-
-* [User Projects Powered by LUFA](http://www.fourwalledcubicle.com/files/LUFA/Doc/120219/html/_page__l_u_f_a_powered_projects.html) 这个页面有AT90USB162芯片的USB板子连接
 
 
 * [如何从零开始做一个USB键盘?](http://www.360doc.com/content/15/0204/18/14106735_446270286.shtml)
@@ -34,5 +39,9 @@
 * [如何从零开始做一个USB键盘?](https://www.zhihu.com/question/22583007)
 
 * [如何把一个 usb 键盘改造成蓝牙键盘？](https://www.zhihu.com/question/22614844)
+
+* [My First AVR-USB---Low cost and step by step](https://www.elektormagazine.com/magazine/elektor-201001/19231)
+
+
 
 * [Arduino USB HID Keyboard](http://mitchtech.net/arduino-usb-hid-keyboard/)
