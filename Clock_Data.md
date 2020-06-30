@@ -4,6 +4,8 @@
 
 ###### DATASHEET
 
+* [AC90USB82-162 microchip](https://www.microchip.com/wwwproducts/en/AT90USB162)
+
 * [AC90USB82-162](https://rfagora.s3.amazonaws.com/sooof/hardware/datasheet/clock/AC90USB82-162.pdf)
 
 * [LMK03000DISQ-NOPB](https://rfagora.s3.amazonaws.com/sooof/hardware/datasheet/clock/LMK03000DISQ-NOPB.pdf)
