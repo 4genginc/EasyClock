@@ -24,6 +24,6 @@
 * [Digital-Design-Reference-Design](https://github.com/DigilentChina/Digital-Design-Reference-Design)
 
 
-###### FPGA Tutorial]
+###### FPGA Tutorial
 
 * [Seven-Segment LED Display on Basys 3 FPGA](https://www.fpga4student.com/2017/09/seven-segment-led-display-controller-basys3-fpga.html)
